@@ -1,5 +1,9 @@
 # Shut Tiktok Share Bot
 
+
+# THIS HAS BEEN PACHTED :(
+
+
 so shut share bot is a tiktok share bot to boost your videos shares
 its kinda fast and also proxyless
 
